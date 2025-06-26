@@ -48,8 +48,77 @@ dosing involved, and methods adopted for treatment are according to the end cons
 as well as the nature of composition of raw water sources, which are all mainly from surface wells, lakes,
 rivers or from underground sources such as deep wells in some places from sea. 
 _____________________
+ISSUANCE DATE: 26/06/2025
 
+QTY: 4810911
 
+MP-01: 2014-2024
+___________
+Serial Number: 0001-000001-202450-UCR-RoU-IN-521-01012014-31122014
 
+Vintage Year: 2014
+
+Quantity: 202450
+___________
+Serial Number: 0001-202451-479278-UCR-RoU-IN-521-01012015-31122015
+
+Vintage Year: 2015
+
+Quantity: 276828
+_________
+Serial Number: 0001-479279-781242-UCR-RoU-IN-521-01012016-31122016
+
+Vintage Year: 2016
+
+Quantity: 301964
+_____________
+Serial Number: 0001-781243-1206629-UCR-RoU-IN-521-01012017-31122017
+
+Vintage Year: 2017
+
+Quantity: 425387
+__________
+Serial Number: 0001-1206630-1662307-UCR-RoU-IN-521-01012018-31122018
+
+Vintage Year: 2018
+
+Quantity: 455678
+____________
+Serial Number: 0001-1662308-2169270-UCR-RoU-IN-521-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 506963
+__________
+Serial Number: 0001-2169271-2569908-UCR-RoU-IN-521-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 400638
+______________
+Serial Number: 0001-2569909-3065750-UCR-RoU-IN-521-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 495842
+________
+Serial Number: 0001-3065751-3547102-UCR-RoU-IN-521-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 481352
+_______________
+Serial Number: 0001-3547103-4086878-UCR-RoU-IN-521-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 539776
+__________
+Serial Number: 0001-4086879-4810911-UCR-RoU-IN-521-01012024-31122024
+
+Vintage Year: 2024
+
+Quantity: 724033
+_______________
 
 
